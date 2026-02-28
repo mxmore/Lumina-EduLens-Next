@@ -3,7 +3,7 @@
 # ── Web framework ──────────────────────────────────────────────
 fastapi==0.115.5
 uvicorn[standard]==0.32.1
-python-multipart==0.0.12
+python-multipart==0.0.22
 
 # ── Database ───────────────────────────────────────────────────
 asyncpg==0.30.0
@@ -19,7 +19,7 @@ azure-storage-blob==12.24.0
 # ── Azure AI / OpenAI ──────────────────────────────────────────
 openai==1.57.4
 azure-ai-vision-imageanalysis==1.0.0
-azure-core==1.32.0
+azure-core==1.38.0
 
 # ── Data validation ────────────────────────────────────────────
 pydantic==2.10.4
